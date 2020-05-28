@@ -3,8 +3,8 @@ Link to live website: https://react-challange.tad.now.sh/
 
 App is fully PWA compliant
 
-
-Application has 33% for login be successful, 33% for "Wrong Password" response, 33% for "Something went wrong"
+Server login functionality is handled by NextJS serverless API.
+Application has 33% for login be successful, 33% for "Wrong Password" response, 33% for "Something went wrong". 
 
 ## Setup the project
 -Clone the repo <br />
