@@ -1,0 +1,6 @@
+Sitemap: https://vetemecum-app.tad.now.sh/api/sitemap
+
+User-agent: *
+Allow: /*
+
+Disallow: /api/*
