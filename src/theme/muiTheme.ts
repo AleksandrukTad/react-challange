@@ -98,7 +98,7 @@ export const theme = createMuiTheme({
   overrides: {
     MuiCard: {
       root: {
-        maxWidth: "400px"
+        minWidth: "350px"
       }
     },
     MuiCardContent: {
